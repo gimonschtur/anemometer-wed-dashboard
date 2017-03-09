@@ -1,4 +1,4 @@
-BP Monitor Dashboard
+Meteor Name Dashboard
  
 Version 1.0 | January 9, 2017
 
